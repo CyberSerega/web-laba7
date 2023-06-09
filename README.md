@@ -40,7 +40,7 @@ index.html:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arvo:400,700|Cookie">
-    <title>lab№7</title>
+    <title>Лабораторная работа №7</title>
 </head>
 <body>
     
